@@ -1,0 +1,5 @@
+Food Pantry;Org1;Light of Life Rescue Mission;40.455742;-80.006081;10 E North Ave;Pittsburgh;PA;15212;yes;Sunday@12:00@14:00@2
+Food Bank;Org2;North Hills Food Bank;40.495110;-80.011932;845 Perry Hwy Route 19;Pittsburgh;PA;15229;no;1000;Tuesday@10:00@13:45@5;Thursday@10:00@13:45@5
+Food Bank;Org3;North Hills Food Bank - Amarraca Branch;40.546880;-80.020620;99 Corbett Court;Pittsburgh;PA;15237;yes;1000;Tuesday@09:00@13:00@4
+Food Pantry;Org4;Bread of Life Food Pantry;40.498004;-79.944591;94 Locust Street;Pittsburgh;PA;15223;no;Monday@13:00@16:00@3;Friday@13:00@16:00@3
+Food Pantry;Org5;Saint Winifred Food Pantry;40.375386;-80.023615;550 Sleepy Hollow Road;Pittsburgh;PA;15228;no;Wednesday@10:15@11:15;Saturday@10:15@11:15@3
